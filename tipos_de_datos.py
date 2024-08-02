@@ -35,7 +35,7 @@ import numpy as np
 # arr = arr.astype(np.str_)
 # print(arr)
 
-###### Int data type
+###### Int data type ######
 
 arr = np.array(['0','1','2','3 ','4'])
 arr = arr.astype(np.int8)
