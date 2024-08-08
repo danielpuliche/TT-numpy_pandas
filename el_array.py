@@ -31,7 +31,7 @@ matrix = np.array(matrix)
 
 # print(matrix[1])
 # print(matrix[2])
-# print(matrix[3])
+# # print(matrix[3])
 
 # print(matrix[0,2])
 
